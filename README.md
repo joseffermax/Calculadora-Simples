@@ -1,8 +1,8 @@
 <h1 align="center">🧮 Calculadora Simples</h1>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/joseffermax/Calculadora-Simples/main/LICENSE">
-    <img src="https://img.shields.io/github/license/joseffermax/Calculadora-Simples?color=blue" alt="License">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
   </a>
 </p>
 
