@@ -1,57 +1,84 @@
-# Calculadora Simples
+<h1 align="center">🧮 Calculadora Simples</h1>
 
-Esta é uma calculadora simples em Python que realiza as quatro operações básicas: soma, subtração, multiplicação e divisão.
+<p align="center">
+  <a href="https://raw.githubusercontent.com/joseffermax/Calculadora-Simples/main/LICENSE">
+    <img src="https://img.shields.io/github/license/joseffermax/Calculadora-Simples?color=blue" alt="License">
+  </a>
+</p>
 
-## Instruções de Instalação
+## ℹ️ Sobre o Projeto
+
+A Calculadora Simples é um projeto em Python que visa fornecer uma calculadora de uso fácil e intuitivo, capaz de realizar as quatro operações básicas: adição, subtração, multiplicação e divisão.
+
+## ✨ Recursos
+
+- Validação de entrada para evitar erros.
+- Limpeza automática da tela após cada cálculo.
+
+## 📥 Instalação
+
+Antes de executar a Calculadora Simples, verifique se você tem o Python 3 instalado em sua máquina. Em seguida, siga as instruções abaixo:
 
 1. Clone este repositório em sua máquina local.
-2. Certifique-se de ter o Python 3 instalado em seu sistema.
-3. Instale a biblioteca colorama executando o seguinte comando no terminal: pip install colorama
+   ```bash
+   git clone https://github.com/joseffermax/Calculadora-Simples.git
 
-## Como Usar
+2. Navegue até o diretório do projeto.
+   ```bash
+   cd Calculadora-Simples
 
-1. Abra o arquivo `calculadora.py` em um ambiente de desenvolvimento Python.
-2. Execute o arquivo para iniciar a calculadora.
-3. Siga as instruções exibidas no terminal para realizar as operações desejadas.
+3. Instale as dependências necessárias.
+   ```bash
+   pip install -r requirements.txt
 
-## Exemplo de Uso
+## ▶️ Como Usar
 
-$ python calculadora.py
+1. Abra o terminal e navegue até o diretório do projeto.
 
---- CALCULADORA SIMPLES ---
-[1] - Iniciar
-[2] - Sair do sistema
-Sua opção: 1
+2. Execute o arquivo calculadora.py.
+   ```bash
+   python calculadora.py
 
-Digite o primeiro número: 10
-Digite o segundo número: 5
+3. Siga as instruções exibidas no terminal para realizar cálculos. Digite os números e escolha a operação desejada.
 
-Qual operador você deseja usar?
+## 🌟 Exemplo
 
-[1] soma
-[2] subtração
-[3] multiplicação
-[4] divisão
-Sua opção: 1
+Aqui estão alguns exemplos de cálculos que você pode realizar com a Calculadora Simples:
 
-A soma entre 10.0 + 5.0 é igual a 15.0
-Deseja continuar calculando? (S/N): N
+    [1] - Iniciar
+  
+    [2] - Sair do sistema
+  
+    Sua opção: 1
 
---- CALCULADORA SIMPLES ---
-[1] - Iniciar
-[2] - Sair do sistema
-Sua opção: 2
+    Digite o primeiro número: 10
+  
+    Digite o segundo número: 5
 
-Encerrando o programa...
-Obrigado pela preferência!
-ressione S (para sair) ou N (para voltar): S
+    Qual operação você deseja realizar?
+  
+    [1] soma
+  
+    [2] subtração
+  
+    [3] multiplicação
+  
+    [4] divisão
+  
+    Sua opção: 1
 
-Programa encerrado!
+    A soma entre 10 e 5 é igual a 15.
 
-## Contribuição
+## 🤝 Contribuição
 
-Se você quiser contribuir com melhorias para a calculadora, sinta-se à vontade para abrir um pull request neste repositório.
+Contribuições são bem-vindas! Se você tiver sugestões, correções de bugs ou novas funcionalidades, fique à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
+## 📜 Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto está licenciado sob a MIT License.
+
+## 📞 Contato
+
+Se você tiver alguma dúvida ou quiser saber mais sobre o projeto, sinta-se à vontade para entrar em contato através do meu perfil no GitHub.
+
+Aproveite a Calculadora Simples e faça ótimos cálculos! ✨🚀
