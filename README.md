@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## ℹ️ Sobre o Projeto
+## Sobre o Projeto
 
 A Calculadora Simples é um projeto em Python que visa fornecer uma calculadora de uso fácil e intuitivo, capaz de realizar as quatro operações básicas: adição, subtração, multiplicação e divisão.
 
